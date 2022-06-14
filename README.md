@@ -1,7 +1,5 @@
 ### Oi,eu sou a Hillary Macedo!
 
-- 🌱 Estudante de Front-end
-- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
